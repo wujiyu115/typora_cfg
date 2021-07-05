@@ -1,0 +1,13 @@
+!.gitignore
+.idea/*
+.git/*
+.DS_Store
+build/*
+installation.yaml
+user.yaml
+sync/*
+luna_pinyin.userdb/*
+wubi86_jidian.userdb
+wubi86.userdb.old
+wubi86.userdb
+user.txt
